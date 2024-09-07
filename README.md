@@ -1,0 +1,1 @@
+# Disable-Touchpad-While-Typing-Linux
